@@ -4,6 +4,8 @@
 
 My name is Charlotte and I am a first-year PhD student in Political Behavior at the Department of Government at LSE. I did my Bachelor and Master at Humboldt University in Social Science and another MSc in Applied Social Data Science from LSE.  In my free time I love to cook, going to concerts (from Taylor Swift to Black Sabbath) and reading fiction.
 
+In my thesis,  I aim to explore how individuals' local environments influence political behavior, using micro-level geospatial data to disentangle the material impacts of rising regional inequality and the unique social identities shaped by the spatial divide between urban and rural citizens.
+
 ## ⚡ Research Interests
 
 - Contextual Political Behavior
@@ -13,7 +15,6 @@ My name is Charlotte and I am a first-year PhD student in Political Behavior at 
 - Green Transformation
 - Computational Social Science
 
-In my thesis,  I aim to explore how individuals' local environments influence political behavior, using micro-level geospatial data to disentangle the material impacts of rising regional inequality and the unique social identities shaped by the spatial divide between urban and rural citizens.
 
 ## 📫 How to reach me:
 
